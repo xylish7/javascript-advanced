@@ -59,6 +59,7 @@ In the following sections, we will cover some advanced concepts and techniques i
     - [Lazy Loading Images](#lazy-loading-images)
   - [Performance API](#performance-api)
     - [Track Resource Load Time](#track-resource-load-time)
+  - [Attribution](#attribution)
 
 ## Array.includes() vs Set.has()
 
@@ -816,3 +817,8 @@ console.log(`JS sort duration: ${JSSortDuration.toFixed(1)}ms`);
 ### Track Resource Load Time
 
 [▶️ Example](./performance-api-track-resource-load-time/index.html)
+
+
+## Attribution
+
+- [JavaScript Pro: Mastering Advanced Concepts and Techniques](https://www.udemy.com/course/pro-javascript)
